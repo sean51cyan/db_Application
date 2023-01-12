@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_array">
+        <item>未選択</item>
+        <item>情報理論</item>
+        <item>アルゴリズム</item>
+        <item>コンピューティング</item>
+        <item>暗号理論</item>
+        <item>デジタルコンテンツ</item>
+        <item>データベース</item>
+    </string-array>
+</resources>
