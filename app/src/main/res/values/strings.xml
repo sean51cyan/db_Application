@@ -3,9 +3,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">課題追加</string>
     <string name="title_notifications">課題確認</string>
-    <string name="hint_key">company</string>
-    <string name="hint_value">US$price</string>
-    <string name="insert">insert</string>
-    <string name="read">read</string>
+    <string name="insert">追加</string>
+    <string name="read">表示</string>
     <string name="buttonTask">内容</string>
 </resources>

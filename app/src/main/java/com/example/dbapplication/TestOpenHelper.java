@@ -8,7 +8,7 @@ import android.util.Log;
 
 public class TestOpenHelper extends SQLiteOpenHelper {
 
-    private static final int DATABASE_VERSION = 7;
+    private static final int DATABASE_VERSION = 6;
 
     private static final String DATABASE_NAME = "kadaiDB.db";
     private static final String TABLE_NAME = "授業";
